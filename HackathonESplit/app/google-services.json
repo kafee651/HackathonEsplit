@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "731213647538",
+    "firebase_url": "https://hackathonesplit.firebaseio.com",
+    "project_id": "hackathonesplit",
+    "storage_bucket": "hackathonesplit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731213647538:android:bf79e0c64c4c7573",
+        "android_client_info": {
+          "package_name": "com.example.hackathon.hackathonesplit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731213647538-ohv8268pf96klsobiev83709ra9egia9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "731213647538-ohv8268pf96klsobiev83709ra9egia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0GLJdyuBDk3HjdXcknqF-8dp2mzS_AQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
